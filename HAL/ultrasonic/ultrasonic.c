@@ -11,8 +11,8 @@
  ******************************************************************************/
 
 #include <util/delay.h>
-#include "../MCAL/gpio.h"
-#include "../MCAL/icu.h"
+#include "../../MCAL/gpio/gpio.h"
+#include "../../MCAL/icu.h"
 #include "ultrasonic.h"
 
 
